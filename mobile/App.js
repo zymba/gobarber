@@ -16,6 +16,8 @@ import {
   StatusBar,
 } from 'react-native';
 
+import './src/config/ReactotronConfig';
+
 import {
   Header,
   LearnMoreLinks,
